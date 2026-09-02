@@ -1,4 +1,4 @@
-# 💳 German Credit Risk Classification
+# 💳 Credit-Risk-Modeling
 
 An end-to-end **Machine Learning Classification Project** that predicts credit risk (**good vs. bad**) for loan applicants using the **German Credit Data** dataset.
 
